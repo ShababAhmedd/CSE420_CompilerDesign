@@ -11,12 +11,8 @@ https://www.macports.org/install.php <br>
 
 <h3>MinGW</h3>
 https://ports.macports.org/port/mingw-w64/ <br>
-or <br>
-https://ports.macports.org/search/?q=mingw&name=on <br>
-To install mingw-w64, run the following command in macOS terminal (Applications->Utilities->Terminal) sudo port install mingw-w64 Copy. <br>
-To see what files were installed by mingw-w64, run: port contents mingw-w64 Copy. <br>
-To later upgrade mingw-w64, run: sudo port selfupdate && sudo port upgrade mingw-w64 Copy. <br>
-if any of the above doesn't work then: <br>
+
+if the above doesn't work then: <br>
 install Xcode from the Mac App Store. Once it's installed start it, and allow it to install the command line tools. <br>
 
 <h3>Gitbash</h3>
