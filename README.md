@@ -21,6 +21,9 @@ https://git-scm.com/download/mac <br>
 <h3>Flex</h3>
 https://ports.macports.org/port/flex/ <br>
 
+<br>
+
+<br/>
 
 # Installation for windows
 [Flex](https://www.youtube.com/watch?v=fH6OvP6oeBE) <br>
