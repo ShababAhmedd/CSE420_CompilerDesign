@@ -1,3 +1,5 @@
+[LAB02 || Syntax Analyzer Grammar || Rec ](https://youtu.be/jqaf5EQHZ8c?si=cH4V3-fG77zA1K4l)
+<br> </br>
 [How to fix Permission Denied Error in the Terminal and Command Prompt](https://www.youtube.com/watch?v=JeHXpAjXlDQ)
 <br>
 </br>
