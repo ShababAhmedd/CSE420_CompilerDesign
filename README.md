@@ -2,6 +2,9 @@
 This repository contains all the lab assignments done in the CSE420 course of BracU. <br>
 [Theory and Lab class recordings](https://youtube.com/playlist?list=PLtQXTSdoymQctSUaM_mbdSpKrWO8EVJxT&si=EH3ibG85bIfokR4x)
 
+<br>
+</br>
+
 # Installing necessary files (For MAC OS)
 
 <h3>Homebrew</h3>
@@ -23,7 +26,6 @@ https://git-scm.com/download/mac <br>
 https://ports.macports.org/port/flex/ <br>
 
 <br>
-
 <br/>
 
 # Installation for windows
@@ -32,7 +34,6 @@ https://ports.macports.org/port/flex/ <br>
 [Compiling a flex file using Gitbash](https://youtu.be/mtXTSI4rlkc?si=jPIqYIzGtxmWBjtU) <br>
 
 <br>
-
 <br/>
 
 # Issues
