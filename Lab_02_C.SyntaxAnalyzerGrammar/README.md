@@ -7,5 +7,5 @@
 [Print Formats in C](https://youtu.be/iLZOL-hmr7M?si=5NCJjV7LCXznL5py)
 
 <br></br>
-In order to run the files in windows, line number 14 of the "script.sh" file needs to be altered. In place of a.out, you need to write a.exe.
+In order to run the files in windows, line number 14 of the "script.sh" file needs to be altered. In place of "a.out", you need to write "a.exe".
 <img width="967" alt="Screenshot 2023-11-26 at 9 46 52 PM" src="https://github.com/ShababAhmedd/CSE420_CompilerDesign/assets/33228006/68ea5346-9667-437f-b425-b1b0aae8aa0a">
