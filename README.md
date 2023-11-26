@@ -31,4 +31,6 @@ https://ports.macports.org/port/flex/ <br>
 
 [Compiling a flex file using Gitbash](https://youtu.be/mtXTSI4rlkc?si=jPIqYIzGtxmWBjtU) <br>
    
-
+# Issues
+[How to fix Permission Denied Error in the Terminal and Command Prompt](https://www.youtube.com/watch?v=JeHXpAjXlDQ)
+(
