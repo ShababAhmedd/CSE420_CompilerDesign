@@ -1,6 +1,7 @@
 # CSE420_CompilerDesign
 This repository contains all the lab assignments done in the CSE420 course of BracU. <br>
-[Theory and Lab class recordings](https://youtube.com/playlist?list=PLtQXTSdoymQctSUaM_mbdSpKrWO8EVJxT&si=EH3ibG85bIfokR4x)
+[Theory and Lab class recordings](https://youtube.com/playlist?list=PLtQXTSdoymQctSUaM_mbdSpKrWO8EVJxT&si=EH3ibG85bIfokR4x) <br>
+[Mid/final q](https://drive.google.com/drive/folders/1WYon49oy4GIbDUg2s8EdYCcuYRjvqBYx?usp=sharing)
 
 <br>
 </br>
